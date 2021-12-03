@@ -1,0 +1,2 @@
+# Synaptics.conf_LetsNoteCF-SV1_2021Model
+PanasonicのLetsNote CF-SV1 2021年モデルにUbuntu入れたとき、円形スクロールを使用するための設定ファイルサンプルです。
